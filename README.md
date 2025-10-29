@@ -4,7 +4,7 @@ I'm a Computer Science student, currently on my 4<sup>th</sup> year, passionate 
 
 ## 💻 Technologies I Work With
 
-- **Languages:** C, C++, C#, Java, TypeScript, JavaScript, Python
+- **Languages:** C, C++, C#, Java, TypeScript, Python
 - **Frameworks & Tools:** .NET, React, Vite, Node.js, WPF, Windows Forms, JADE, Git
 - **Other:** OOP, REST APIs, Blockchain (basic), Agent Systems
 
