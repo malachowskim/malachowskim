@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mateusz Małachowski
 
-I'm a Computer Science student, currently on my 3<sup>rd</sup> year, passionate about building useful and creative software. I enjoy working with a variety of technologies, from frontend web development to backend systems, desktop applications, and agent-based simulations.
+I'm a Computer Science student, currently on my 4<sup>th</sup> year, passionate about building useful and creative software. I enjoy working with a variety of technologies, from frontend web development to backend systems, desktop applications, and agent-based simulations.
 
 ## 💻 Technologies I Work With
 
